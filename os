@@ -49,5 +49,8 @@ ans->there are somany scheduling algorithms and they are given below .
 8-feedback multilevel queue schedulling.
 
 9)what is dead lock ?
-10)what is orphan process? 
+ans-> A deadlock is a permanent blocking situation where a set of processes are all waiting for an event (usually the release of a resource) that can only be triggered by another process in the same set.
+10)what is orphan process?
+ans->a process whose parent process is terminated or killed and the process is adopted by super parent is called as orphan process.
 11)what is semaphores?
+ans-> A signaling mechanism used to control access to a common resource by using a counter. The counter tracks the number of permits available. 
