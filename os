@@ -48,3 +48,6 @@ ans->there are somany scheduling algorithms and they are given below .
 7-multilevel queue shedulling
 8-feedback multilevel queue schedulling.
 
+9)what is dead lock ?
+10)what is orphan process? 
+11)what is semaphores?
