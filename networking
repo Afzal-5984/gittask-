@@ -1,19 +1,19 @@
-Q:what are types of ips?
+Q1:what are types of ips?
 ans:-there are 2 types of ips 1)public ip-Your Internet Service Provider (ISP) 2)private ip-Your router or local network
 
-Q:what is MAC?
+Q2:what is MAC?
 ans: mac is stand for media access control,- is a hardware address that uniquely identifies each device on a local network.
 - It operates at Layer 2 (Data Link Layer) of the OSI model.
 - Every network device (like a computer, router, or printer) has a MAC address embedded in its NIC by the manufacturer.
 
-Q:explain DHCP?
+Q3:explain DHCP?
 ans:-DHCP (Dynamic Host Configuration Protocol) is a network protocol that automatically assigns IP addresses and other network settings to devices on a network.
 
-Q:what is NAT?
+Q4:what is NAT?
 ans:-NAT (Network Address Translation) is a networking technique that allows multiple devices on a private network to access the internet using a single public IP address.
 
-Q:write the range of ports?
+Q5:write the range of ports?
 ans:- the range of the ports are between 0 to 65535.
 
-Q:list five topologies types?
+Q6:list five topologies types?
 ans:1)Bus topology 2)star topology 3)ring topology 4)mesh topology 5)hybrid topology
